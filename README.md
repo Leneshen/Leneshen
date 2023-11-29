@@ -13,7 +13,11 @@ Languages I know (reasonably well):
 - Java (in progress)
 - Kotlin (in progress)
 - R (Data Science)
-- 
+
+Current projects:
+- Using a predictive model to forcast solar power generation
+- Traffic Camera images for use on Android Auto
+- Building an Online Presence
 
 <!---
 Leneshen/Leneshen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
